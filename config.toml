@@ -90,12 +90,12 @@ body = "This site is created with Hugo. The code is hosted on Github, and the we
 [[params.three.feature]]
 icon = "fa-heart-o"
 title = "Support"
-body = "There may be a need to have some monetary support for this community as it becomes bigger. Right now, donations are not needed"
+body = "There may be a need to have some monetary support for this community as it becomes bigger. Right now, donations are not needed."
 
 [[params.three.feature]]
 icon = "fa-flag-o"
 title = "What&#39;s coming"
-body = "A forum, possibly a matrix server, maybe a knowledge base. Anything is possible"
+body = "A forum, possibly a matrix server, maybe a knowledge base. Anything is possible."
 
 [params.cta]
 enable = true
