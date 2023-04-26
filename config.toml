@@ -6,10 +6,10 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Spectral" # title for frontpage, may include image
-copyright = "John Doe"
-description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-startbuttonText = "Activate"
+fancyTitle = "Driftless IT Community" # title for frontpage, may include image
+copyright = "Patrick Palmersheim"
+description = 'IT community located in\br NE Iowa, SW Wisconsin and SE Minnesota'
+startbuttonText = "Forum"
 startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
@@ -29,7 +29,7 @@ title = "Posts"
     series = "series"
 
 [params.one]
-enable = true
+enable = false
 title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
@@ -52,7 +52,7 @@ style = "3"
 label = "Dolor"
 
 [params.two]
-enable = true
+enable = false
 
 [[params.two.section]]
 img = "img/pic01.jpg"
@@ -108,7 +108,7 @@ title = "Nothing important"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
-enable = true
+enable = false
 title = "Arcue ut vel commodo"
 body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
@@ -123,7 +123,7 @@ text = "Learn More"
 special = false
 
 [params.contact]
-enable = true
+enable = false
 title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
