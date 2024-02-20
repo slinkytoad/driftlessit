@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://driftlessit.org/</loc>
-    <lastmod>2023-04-26T16:05:49-05:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-19T16:05:49-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://driftlessit.org/de/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://driftlessit.org/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://driftlessit.org/posts/hello-world/</loc>
-    <lastmod>2023-04-26T16:05:49-05:00</lastmod>
+    <loc>http://localhost:1313/posts/forum/</loc>
+    <lastmod>2024-02-19T16:05:49-05:00</lastmod>
   </url><url>
-    <loc>https://driftlessit.org/posts/</loc>
-    <lastmod>2023-04-26T16:05:49-05:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-02-19T16:05:49-05:00</lastmod>
   </url><url>
-    <loc>https://driftlessit.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://driftlessit.org/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://driftlessit.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://driftlessit.org/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://driftlessit.org/de/series/"
+                href="http://localhost:1313/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://driftlessit.org/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://driftlessit.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://driftlessit.org/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://driftlessit.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
